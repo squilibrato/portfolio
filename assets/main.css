@@ -1,0 +1,54 @@
+/* general */
+
+h2 {
+
+}
+h3 {
+  margin: 0 0 1em 0;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+body {
+   background-color: black; color: red;
+   font-family: 'sans';
+}
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+/* color */
+
+h1 {
+  color: #aaa;
+}
+
+header {
+  background: #111
+}
+
+ul {
+  color: #aaa;
+}
+
+/* nav */
+
+nav {
+  background: #000
+}
+
+nav a.selected {
+  color: #aaa
+}
+
+nav a:hover{
+  color: #fff;
+}
+
+/* heading */
