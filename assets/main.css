@@ -30,11 +30,19 @@ h1 {
 }
 
 header {
-  background: #111
+  background: #111;
 }
 
 ul {
   color: #aaa;
+}
+
+footer{
+  color: red;
+}
+
+p{
+  color: red;
 }
 
 /* nav */
